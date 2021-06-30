@@ -48,7 +48,7 @@ public override void CheckState()
 }
 ```
 
-There are also events (defined in `TaskDirector`) that you can override which agents can subscribe to
+There are also events (defined in `TaskDirector`) that agents can subscribe to
 
 ```csharp
 // Event to signal Task Start
