@@ -1,5 +1,8 @@
 # Task-Dynamics-Human-Corralling
-Repository for the paper titled "Task Dynamics Define the Contextual Emergence of Human Corralling Behaviors" (in/under review).
+Repository for the paper titled "Task Dynamics Define the Contextual Emergence of Human Corralling Behaviors"
+
+## Reference
+Nalepka, P., Silva, P.L., Kallen, R. W., Shockley, K., Chemero, A., Saltzman, E. & Richardson, M. J. (2021). Task dynamics define the contextual emergence of human corralling behaviors. *PLoS ONE*, *16*(11), e0260046. https://doi.org/10.1371/journal.pone.0260046
 
 ## Contents
 - [Environment](#environment)
